@@ -20,6 +20,9 @@
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
+#Project specific
+ProjectSettings
+
 # =========================
 # Operating System Files
 # =========================
@@ -70,3 +73,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.DotSettings
