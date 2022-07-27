@@ -1,5 +1,3 @@
-﻿// (c) 2016 Julien Heimann | www.heijulien.de
-
 using System;
 using System.Collections;
 using System.Collections.Generic;
